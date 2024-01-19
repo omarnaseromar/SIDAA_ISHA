@@ -1,0 +1,34 @@
+#sida {background-color: black ;color: white}
+.par {background-color: #1F2225 ; color: white; padding: 50px  ; font: bold ; font-size: 20px} 
+.cover { background-image:url(Photo/d06d060a-7052-4e16-a1b0-66fa67f79954.jpg) url(Photo/7d3c378a-2975-4dc1-846f-b7b47ef51a79.jpg); background-size: cover; height: 600px ; color: white ; position: relative} 
+.cover h1 { font-family: sans-serif ; background-color: bisque; top: auto ; font-size: 50px ; position:inherit; top: 35% ; left: 10% ; letter-spacing: 5px}
+body { margin: 0px; padding: 0px; direction: rtl}
+.reason h2 {background-color: #F4F3FC ; color: black; padding: 10px ; text-align: center ;  font-size: 50px ; margin-bottom: 30px ;}
+.reason {background-color: #262A2D ; color: white ; padding: 40px ; text-align: center ;  font-size: 30px; margin-top: 40px  ;line-height: 100px}
+.intro h2 {background-color: #262A2D ; color: white ; padding: 10px ; text-align: center ;  font-size: 30px}
+.grand { background-color: black ; color: white ; text-align: center ; padding: 50px ; margin-top: 40px}
+.grand .grp {width: 33% ; display: inline-block ;}
+.grand h2 {margin: 50px ; font-size: 50px ; font-family: fantasy ; }
+.grand .groups {margin-top: 40px}
+.grand  .grp img {width: 80%}
+.itachi {background-color: black ; color: white  ; font-family: sans-serif ; padding: 50px; margin-bottom: 20px}
+.team {background-color: #F3F3F1 ; padding:50px ; margin: auto ; padding: 60px ; margin-top: 50px }
+.team h2 {background-color: #1F2225 ; color: white ; margin-bottom: 30px ; font-size: 30px ; padding: 10px ; font-family: fantasy}
+.accordion  {padding: 50px ; background-color: #F4F3FC ; margin: auto}
+#mapp {height: 300px}
+.container-fluid{direction: ltr}
+.uchiha {padding: 40px ; margin-top:20px}
+.uchiha h2 {padding: 20px ; background-color:#F5F5F5 }
+.uchiha p {padding: 40px ; background-color: #f5f5f5}
+footer {background-color: darkorchid; padding: 10px ; color: white}
+footer p {margin: 0px}
+.source h2 {background-color: #F4F3FC ; color: black; padding: 5px ; text-align: center ;  font-size: 50px ; margin-bottom: 30px ;}
+.source {background-color: #262A2D ; color: white ; padding: 20px ; text-align: center ;  font-size: 50px; margin-top: 40px  ;line-height: 80px}
+.importance {background-color:#E1E1DE; padding: 45px ; text-align: center ; font-size: 30px ; margin-top: 30px ; font-weight: bold}
+.importance h2 {background-color: #262A2D ;color: white ;padding: 5px ; text-align: center ; font-size: 40px ; margin-bottom: 40px}
+.goals {background-color: #F3F3F1 ; padding:50px ; margin: auto ; padding: 70px ; margin-top: 50px ; font-size: 20px }
+.goals h2 {background-color: #262A2D ; color: white ; margin-bottom: 30px ; font-size: 30px ; padding: 10px ; font-family: fantasy}
+.problems h2 {background-color: #F4F3FC ; color: black; padding: 10px ; text-align: center ;  font-size: 50px ; margin-bottom: 30px ;}
+.problems {background-color: #262A2D ; color: white ; padding: 40px ; text-align: center ;  font-size: 30px; margin-top: 40px  ; direction: rtl}
+.mapstation {margin: 40px ; background-color: #F3F3F1 ; padding-top: 8px }
+.parstation {background-color: #1F2225 ; color: white ; padding: 20px ; margin-bottom: 20px ; font-size: 30px}
